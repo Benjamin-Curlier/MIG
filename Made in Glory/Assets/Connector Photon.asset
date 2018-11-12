@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fdb42f8e5aa74c4496af0634ed8887e, type: 3}
+  m_Name: Connector Photon
+  m_EditorClassIdentifier: 
+  GameVersion: alpha
+  Lobby:
+    Name: mig
+    Type: 0
+  PrefabPlayer: {fileID: 1713781036754730, guid: 0f8a471e5537f864ebdb454fe82308eb,
+    type: 2}
+  Red: {fileID: 2100000, guid: 76efd4c3dc867d841b0a4c3eccc81a15, type: 2}
+  Blue: {fileID: 2100000, guid: 8cddf626d7c3b5e46acdc7ed8b51ae2d, type: 2}
+  Purple: {fileID: 2100000, guid: ee4d12f1b15e4ed40af3b8abdd1f0a65, type: 2}
+  Yellow: {fileID: 2100000, guid: 8f3a0226f31b5e546a62b85bbb14ea9d, type: 2}

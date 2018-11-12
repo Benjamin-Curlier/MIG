@@ -1,0 +1,76 @@
+{
+    "array": [
+        {
+            "Name": "Shortcut 1",
+            "Control": {
+                "key": 49,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 2",
+            "Control": {
+                "key": 50,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 3",
+            "Control": {
+                "key": 51,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 4",
+            "Control": {
+                "key": 52,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 5",
+            "Control": {
+                "key": 53,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 6",
+            "Control": {
+                "key": 54,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 7",
+            "Control": {
+                "key": 55,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Shortcut 8",
+            "Control": {
+                "key": 56,
+                "button": "",
+                "flags": 1
+            }
+        },
+        {
+            "Name": "Click",
+            "Control": {
+                "key": 323,
+                "button": "",
+                "flags": 1
+            }
+        }
+    ]
+}
